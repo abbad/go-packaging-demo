@@ -1,4 +1,4 @@
-Golang totorial. Building packages and writing tests. In addition to that running go via docker. 
+Golang Demo. Building packages and writing tests. In addition to that running go via docker. 
 
 
 ### To Run:
